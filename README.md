@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zongcai Du from Nanjing University
-- 👀 I’m interested in 2d/3d computer version
+- 👀 I’m interested in multi-modal computer vision
 - 🌱 I’m currently working in Baidu, Chengdu.
 
 <!---
